@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Name - Computer Science Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Computer Science Graduate | Python & Bash Specialist</p>
+        <p>Contact: your.email@example.com | <a href="https://github.com">GitHub Profile</a></p>
+    </header>
+
+    <section id="about">
+        <h2>Technical Summary</h2>
+        <p>Recent Computer Science graduate proficient in Python backend automation and Bash scripting. Experienced in full-stack team collaboration, system documentation, and user-centric interface design. Seeking immediate entry-level opportunities in IT Support, Linux Systems, or Junior Programming.</p>
+    
+
+    <section id="projects">
+        <h2>Key Technical Projects</h2>
+        
+        <!-- Project 1 -->
+        <div class="project-card">
+            <h3>Full-Stack Music Automation Web App</h3>
+            <p><strong>Tech Stack:</strong> Python, Flask, Bash, Jinja2, Spotify & Last.fm APIs</p>
+            <p>Collaborated in a team environment providing critical backend support, system documentation, and architecture management. Automated integration workflows using Python and Bash.</p>
+            <a href="https://github.com/your-repo-link" target="_blank">View GitHub Code</a> | 
+            <a href="projects/music-app-presentation.pdf" target="_blank">View Project Presentation (PDF)</a>
+        </div>
+
+        <!-- Project 2 -->
+        <div class="project-card">
+            <h3>Human-Computer Interaction (HCI) Interface Design</h3>
+            <p><strong>Focus:</strong> UI/UX Case Study, Wireframing, User Flow Design</p>
+            <p>Designed an intuitive, user-centric interface layout based on core HCI principles. Developed wireframes and application flows simulating a product pitch to technical stakeholders.</p>
+            <a href="projects/hci-design-presentation.pdf" target="_blank">View Design Case Study Presentation (PDF)</a>
+        </div>
+    
+</body>
+</html>
